@@ -1,4 +1,4 @@
-{
+server{
 	server_name _;
 	set $traccarHost "http://127.0.0.1:8082";
   	root /var/www/tarkan-desktop;
